@@ -26,7 +26,7 @@
                     </div>
                     <div class="col-9 item">
                         <p class="title name">
-                            梁博奇 Alex
+                           王悦 luisa
                         </p>
                         <div class="col-6">
                             <p class="phone">135 1111 8888</p>
